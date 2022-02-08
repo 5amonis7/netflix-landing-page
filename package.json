@@ -1,10 +1,11 @@
 {
+  "homepage": "https://5amonis7.github.io/netflix-landing-page",
   "name": "netflix-landing-page",
   "version": "1.0.0",
   "description": "Netflix landing page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "author": "",
   "license": "ISC",
